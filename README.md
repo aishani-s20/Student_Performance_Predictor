@@ -106,4 +106,4 @@ streamlit run app.py
 
 ## 🙋‍♀️ Author
 
-Aishani Shreya – [LinkedIn](https://linkedin.com/in/your-profile)
+Aishani Shreya – [LinkedIn](https://www.linkedin.com/in/aishani-shreya/)
